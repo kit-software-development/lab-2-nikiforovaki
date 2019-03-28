@@ -1,0 +1,6 @@
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Library\bin\Debug\Model.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Library\bin\Debug\Model.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Library\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Library\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Library\obj\Debug\Model.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Library\obj\Debug\Model.pdb
