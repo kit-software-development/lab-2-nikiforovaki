@@ -1,0 +1,9 @@
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\bin\Debug\Implementation.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\bin\Debug\Implementation.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\bin\Debug\Model.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\bin\Debug\Model.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\obj\Debug\Implementation.csproj.CopyComplete
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\obj\Debug\Implementation.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Implementation\obj\Debug\Implementation.pdb

@@ -1,0 +1,12 @@
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\bin\Debug\Practice.exe.config
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\bin\Debug\Practice.exe
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\bin\Debug\Practice.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\bin\Debug\Implementation.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\bin\Debug\Model.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\bin\Debug\Implementation.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\bin\Debug\Model.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\obj\Debug\Practice.csproj.CopyComplete
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\obj\Debug\Practice.exe
+C:\Users\weltk\OneDrive\Рабочий стол\Лабораторная №2\Practice\obj\Debug\Practice.pdb
